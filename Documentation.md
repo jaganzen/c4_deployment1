@@ -2,3 +2,7 @@
 [Step 2 - read instructions and connect to Jenkins (complete)]
 [Step 3 - Setup Jenkins w/ API key (yet to be completed]
 [Step 4 - Generate personal access token via the settings on Github (completed)]
+[Step 5 - Setup pipeline and password w/ API key, then apply, and save (completed)]
+[Step 6 - Run Pipeline, and then copy and paste documentation from Jenkins (completed)]
+[Step 7 - Explain documentation (after)]
+[Step 8 - Go through Scribe to setup Elastic Beanstalk Instance]
