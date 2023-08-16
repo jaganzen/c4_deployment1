@@ -48,4 +48,7 @@
 
 ![Deployment Confirmation 1](https://github.com/jaganzen/c4_deployment1/assets/101806502/e20bf3f6-9c59-468e-a688-9f9a4a512bfe)
 
+6. Diagram for Deployment 1:
+
+![Deployment 1 Diagram](https://github.com/jaganzen/c4_deployment1/assets/101806502/2d57384c-60ab-488f-b912-f5aa947f4432)
 
