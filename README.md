@@ -8,31 +8,31 @@
 
 ### 1. Setup Github repository: 
 
-   a. Download repository from Kura Labs C4 Deployment 1 Repo.
+      a. Download repository from Kura Labs C4 Deployment 1 Repo.
 
-   b. Extract files via zip file downloaded from Kura Labs C4 Deployment 1 Repo.
+      b. Extract files via zip file downloaded from Kura Labs C4 Deployment 1 Repo.
 
-   c. Upload files into newly made Github Repo by dragging and dropping files (because I’m using a Mac).
+      c. Upload files into newly made Github Repo by dragging and dropping files (because I’m using a Mac).
 
 &nbsp;
 
 ### 2. Setup Personal Access Token w/ Github
 
-   a. Go to “Settings” and select “Developer Setting.”
+      a. Go to “Settings” and select “Developer Setting.”
 
-   b. Select Personal Access Token and choose “Tokens (classic).”
+      b. Select Personal Access Token and choose “Tokens (classic).”
 
-   c. Click “Generate new token” and select “Generate new token (classic).”
+      c. Click “Generate new token” and select “Generate new token (classic).”
 
 &nbsp;
 
 ### 3. Setup Jenkins pipeline
 
-   a. Login using credentials.
+      a. Login using credentials.
 
-   b. Build pipeline, use Github user credentials and Personal Access Token to establish connection between Jenkins & Github.
+      b. Build pipeline, use Github user credentials and Personal Access Token to establish connection between Jenkins & Github.
 
-   c. Run Build for successful deployment, if any issues, check the file issue within the file path or in the code itself (example: 'import application' may be 'import app' instead).
+      c. Run Build for successful deployment, if any issues, check the file issue within the file path or in the code itself (example: 'import application' may be 'import app' instead).
 
 &nbsp;
 
@@ -40,4 +40,6 @@
 
 &nbsp;
 
-### 5. Setup Deployment on Elastic Beanstalk and execute
+### 5. Setup Deployment on Elastic Beanstalk and execute deployment by selecting parameters. 
+
+
