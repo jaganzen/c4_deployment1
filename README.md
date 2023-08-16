@@ -5,35 +5,35 @@
 
 ## Deployment instructions :
 
-#1. Setup Github repository: 
+a. Setup Github repository: 
 
-a. Download repository from Kura Labs C4 Deployment 1 Repo
+1a. Download repository from Kura Labs C4 Deployment 1 Repo
 
-b. Extract files via zip file downloaded from Kura Labs C4 Deployment 1 Repo
+1b. Extract files via zip file downloaded from Kura Labs C4 Deployment 1 Repo
 	
-c. Upload files into newly made Github Repo by dragging and dropping files (because I’m using a Mac)
+1c. Upload files into newly made Github Repo by dragging and dropping files (because I’m using a Mac)
 
 
-#2. Setup Personal Access Token w/ Github
+b. Setup Personal Access Token w/ Github
 
-a. Go to “Settings” and select “Developer Setting”
+1b. Go to “Settings” and select “Developer Setting”
 
-b. Select Personal Access Token and choose “Tokens (classic)”
+2b. Select Personal Access Token and choose “Tokens (classic)”
 
-c. Click “Generate new token” and select “Generate new token (classic)
-
-
-#3. Setup Jenkins pipeline
-
-a. Login using credentials
-
-b. Build pipeline, use Github user credentials and Personal Access Token to establish connection between Jenkins & Github 
-
-c. Run Build for successful deployment, if any issues, check the file issue within the file path or in the code itself (example: ‘import application’ may be ‘import app’ instead. 
+3c. Click “Generate new token” and select “Generate new token (classic)
 
 
-#4. Setup IAM profile 
+c. Setup Jenkins pipeline
+
+1c. Login using credentials
+
+2c. Build pipeline, use Github user credentials and Personal Access Token to establish connection between Jenkins & Github 
+
+3c. Run Build for successful deployment, if any issues, check the file issue within the file path or in the code itself (example: ‘import application’ may be ‘import app’ instead. 
 
 
-#5. Setup Deployment on Elastic Beanstalk and execute 
+d. Setup IAM profile 
+
+
+e. Setup Deployment on Elastic Beanstalk and execute 
 
