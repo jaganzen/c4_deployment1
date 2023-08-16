@@ -6,3 +6,5 @@
 [Step 6 - Run Pipeline, and then copy and paste documentation from Jenkins (completed)]
 [Step 7 - Explain documentation (after)]
 [Step 8 - Go through Scribe to setup Elastic Beanstalk Instance]
+[Step 9 - Complete IAM profile (done)]
+[Step 10 - Set up EC2 instance and run application (FAILED)]
