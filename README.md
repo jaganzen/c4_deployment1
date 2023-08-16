@@ -1,39 +1,45 @@
+[<img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">]
+
 <p align="center">
-<img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">
+  <img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">
 </p>
-<h1 align="center">C4_deployment-1<h1> 
+
+<h1 align="center">C4_deployment-1</h1> 
 
 ## Deployment instructions :
 
-a. Setup Github repository: 
+### 1. Setup Github repository: 
 
-1a. Download repository from Kura Labs C4 Deployment 1 Repo
+   a. Download repository from Kura Labs C4 Deployment 1 Repo.
 
-1b. Extract files via zip file downloaded from Kura Labs C4 Deployment 1 Repo
-	
-1c. Upload files into newly made Github Repo by dragging and dropping files (because I’m using a Mac)
+   b. Extract files via zip file downloaded from Kura Labs C4 Deployment 1 Repo.
 
+   c. Upload files into newly made Github Repo by dragging and dropping files (because I’m using a Mac).
 
-b. Setup Personal Access Token w/ Github
+&nbsp;
 
-1b. Go to “Settings” and select “Developer Setting”
+### 2. Setup Personal Access Token w/ Github
 
-2b. Select Personal Access Token and choose “Tokens (classic)”
+   a. Go to “Settings” and select “Developer Setting.”
 
-3c. Click “Generate new token” and select “Generate new token (classic)
+   b. Select Personal Access Token and choose “Tokens (classic).”
 
+   c. Click “Generate new token” and select “Generate new token (classic).”
 
-c. Setup Jenkins pipeline
+&nbsp;
 
-1c. Login using credentials
+### 3. Setup Jenkins pipeline
 
-2c. Build pipeline, use Github user credentials and Personal Access Token to establish connection between Jenkins & Github 
+   a. Login using credentials.
 
-3c. Run Build for successful deployment, if any issues, check the file issue within the file path or in the code itself (example: ‘import application’ may be ‘import app’ instead. 
+   b. Build pipeline, use Github user credentials and Personal Access Token to establish connection between Jenkins & Github.
 
+   c. Run Build for successful deployment, if any issues, check the file issue within the file path or in the code itself (example: 'import application' may be 'import app' instead).
 
-d. Setup IAM profile 
+&nbsp;
 
+### 4. Setup IAM profile
 
-e. Setup Deployment on Elastic Beanstalk and execute 
+&nbsp;
 
+### 5. Setup Deployment on Elastic Beanstalk and execute
