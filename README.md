@@ -43,4 +43,6 @@
 ### 5. Setup Deployment on Elastic Beanstalk and execute deployment by selecting parameters. 
 
 
-(https://github.com/jaganzen/c4_deployment1/assets/101806502/81f60252-27c5-4533-a0e0-c8a8d23bb724)
+![Deployment Confirmation 1](https://github.com/jaganzen/c4_deployment1/assets/101806502/e20bf3f6-9c59-468e-a688-9f9a4a512bfe)
+
+
