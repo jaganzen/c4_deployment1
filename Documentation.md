@@ -8,3 +8,4 @@
 [Step 8 - Go through Scribe to setup Elastic Beanstalk Instance]
 [Step 9 - Complete IAM profile (done)]
 [Step 10 - Set up EC2 instance and run application (FAILED)]
+[Step 11 - Decompress 
